@@ -1,1 +1,2 @@
-# Some random C++ OOP code
+# C++ OOP code
+- Xe máy class
