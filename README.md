@@ -1,2 +1,2 @@
 # C++ OOP code
-- Xe máy class
+- 1 code demo về Xe máy class trong môn OOP
