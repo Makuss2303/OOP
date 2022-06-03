@@ -3,9 +3,9 @@
 Một công ty chuyển lắp rắp xe máy muốn xây dựng 1 chương trình để quản lý các xe máy mình lắp rắp.
 Biết rằng mỗi xe máy sẽ có các bộ phận cần được quản lý thông tin mã số xe, thông tin động cơ, thông tin 2 bánh xe, thông tin khung xe.
 Công ty có 3 loại động cơ:
-•	Động cơ loại A
-•	Động cơ loại B
-•	Động cơ loại C
+*	Động cơ loại A
+*	Động cơ loại B
+*	Động cơ loại C
 Mỗi loại động cơ sẽ có thông tin như sau:
 •	Mã số
 •	Loại động cơ (A, B, C)
