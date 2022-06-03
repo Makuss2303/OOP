@@ -32,4 +32,3 @@ Viết chương trình hỗ trợ công ty quản lý xe máy của họ với m
 (Các yếu tố đánh giá: chương trình chạy, áp dụng tốt tư tưởng lập trình hướng đối tượng và sử dụng được kỹ thuật kế thừa, đa hình, nạp chồng toán tử...)
 *	Nhập danh sách N xe máy
 *	Hiển thị lại danh sách N xe máy, trước khi người dùng tiến hành lưu (xuất luôn giá của một xe máy thông qua tổng giá của các bộ phận thành phần)
-*	Lưu danh sách xe máy xuống file danh_sach_xe_may.txt
